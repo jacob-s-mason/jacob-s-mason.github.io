@@ -1,4 +1,4 @@
-# jacob-s-mason.github.io
+# Open Portfolio
 Work created by Jacob S. Mason to be used for great things
 
 # Projects
@@ -16,5 +16,5 @@ Work created by Jacob S. Mason to be used for great things
 -BS Finance Clemson University Calhoun Honors College
 
 # Work History
-- Data Sciencetist 
+- [LinkedIn Profile](https://www.linkedin.com/in/jacob-mason-36856486/)
 
