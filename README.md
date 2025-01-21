@@ -1,18 +1,27 @@
-# Open Portfolio
-Work created by Jacob S. Mason to be used for great things
+# Work created by Jacob Mason to be used for great things
+This is an open portfolio.  Any and all code in either this site or my respository can be used, copied, and enhanced by anyone who wishes to do great things. 
 
-# Projects
+This will mainly consist of R code since I am a statistician at heart. 
 
-###Project 1
+“Passion is like the lightning, it is beautiful, and it links the earth to heaven, but alas it blinds!” - H. Rider Haggard
+
+## Projects
+
+Project 1
+
 -Description
+
 -Links
 
-###Project 2
+Project 2
+
 -Description
+
 -Links
 
 # Education
 -MS Applied Economics and Statistics  Clemson University
+
 -BS Finance Clemson University Calhoun Honors College
 
 # Work History
