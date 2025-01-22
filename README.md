@@ -18,7 +18,7 @@ Certificate In Machine Learning (Cornell University)
 
 [Microsoft PowerBI Certified Business Analyst Credential ID 995646509](docs/assests/PowerBI Data Analyst Credential.pdf)
 
-Graduate Statistician (GStat) American Statistical Association Credential ID 256733
+[Graduate Statistician (GStat) American Statistical Association Credential ID 256733](docs/assests/GSTAT Certificate.pdf)
 
 [Microsoft Azure AI Fundamentals Credential ID 995646509](docs/assests/Microsoft Azure AI Credential.pdf)
 
