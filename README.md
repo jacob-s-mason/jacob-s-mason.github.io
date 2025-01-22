@@ -25,7 +25,8 @@ Certificate In Machine Learning (Cornell University)
 [SAS Certified Statistical Business Analyst Using SAS 9 Regression and Modeling](docs/assests/SAS Certification Document.pdf)
 
 # Work History
-- [LinkedIn Profile](https://www.linkedin.com/in/jacob-mason-36856486/)
+
+[LinkedIn Profile](https://www.linkedin.com/in/jacob-mason-36856486/)
 
 # Areas of Interest
 
