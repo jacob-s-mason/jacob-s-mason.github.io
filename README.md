@@ -16,11 +16,11 @@ Certificate In Machine Learning (Cornell University)
 
 [Certified Analytical Professional (CAP)](https://bcert.me/sungyhlyh)
 
-[Microsoft PowerBI Certified Business Analyst Credential ID 995646509](docs/assests/PowerBI Data Analyst Credential.pdf)
+[Microsoft PowerBI Certified Business Analyst](docs/assests/PowerBI Data Analyst Credential.pdf)
 
-[Graduate Statistician (GStat) American Statistical Association Credential ID 256733](docs/assests/GSTAT Certificate.pdf)
+[Graduate Statistician (GStat) American Statistical Association](docs/assests/GSTAT Certificate.pdf)
 
-[Microsoft Azure AI Fundamentals Credential ID 995646509](docs/assests/Microsoft Azure AI Credential.pdf)
+[Microsoft Azure AI Fundamentals](docs/assests/Microsoft Azure AI Credential.pdf)
 
 [SAS Certified Statistical Business Analyst Using SAS 9 Regression and Modeling](docs/assests/SAS Certification Document.pdf)
 
