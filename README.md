@@ -31,12 +31,17 @@ Graduate Statistician (GStat) American Statistical Association Credential ID 256
 
 ## Applications and Explorations of Benford's Law
 
--[What is Benfords Law?](https://en.wikipedia.org/wiki/Benford%27s_law)
-  -Benfords law is nothing short of fascinating. 
-  -The leading digits of naturaly occuring numbers (any naturally occuring number set) that spans mutiple factors of 10 (1,10,100,1000, etc.) will follow a distrobution with roughly 30% leading digit 1s to about 5% leading digit 9s.
-  -This applies to lenght of rivers, zip codes, the size of computer files,.... and prices :)
-  -It can also be used in court as evidence of improper book keeping (otherwise known as cooking the books)
-  -One of my goals is to explore the application and uses of Benfords law in openly available sets of data.
+[What is Benfords Law?](https://en.wikipedia.org/wiki/Benford%27s_law)
+  
+   -Benfords law is nothing short of fascinating.
+   
+   -The leading digits of naturaly occuring numbers (any naturally occuring number set) that spans mutiple factors of 10 (1,10,100,1000, etc.) will follow a distrobution with roughly 30% leading digit 1s to about 5% leading digit 9s
+   
+   -This applies to lenght of rivers, zip codes, the size of computer files,.... and prices :)
+   
+   -It can also be used in court as evidence of improper book keeping (otherwise known as cooking the books)
+   
+   -One of my goals is to explore the application and uses of Benfords law in openly available sets of data.
 
 ### Evidence and Applications of Benford's Law in Small Cap Markets
 - [Empirical Evidence of Benford's Law in Small Cap Markets (Paper)](docs/assests/Empirical Evidence of Benford Law in Small Cap Markets.pdf)
