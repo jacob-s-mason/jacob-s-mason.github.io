@@ -7,11 +7,11 @@ This will mainly consist of R code since I am a statistician at heart.
 
 
 # Education
--MS Applied Economics and Statistics  Clemson University
+MS Applied Economics and Statistics  (Clemson University)
 
--BS Finance Clemson University Calhoun Honors College
+BS Finance (Clemson University Calhoun Honors College)
 
--Certificate In Machine Learning  Cornell University 
+Certificate In Machine Learning  (Cornell University) 
 
 # Certifications
 
@@ -28,16 +28,20 @@ SAS Certified Statistical Business Analyst Using SAS 9 Regression and Modeling
 # Work History
 - [LinkedIn Profile](https://www.linkedin.com/in/jacob-mason-36856486/)
 
-# Applications and Explorations into Benfords Law in US Financial Markets
+
+# Areas of Intrest
+
+## Applications and Explorations of Benfords Law 
 
 -Details
 
--[Evidence and Applications of Benfords Law in Small Cap Markets](docs/assests/Empirical Evidence of Benford Law in Small Cap Markets.pdf)
-  -This was a technical paper that was written during my graduate studies at Clemson Unversity.
-  -It explores if the distrobutions of leading digits in Benfords law apply to US Small Cap Markets (i.e. the Russell 2000).
-  -I was trying (to no avail) to determine if, knowing that Benfords law exists in these markets, a favorable trading strategy could be developed.
-  -Trading frequency and transactions costs were my downfall. 
-  -However; I plan to revisit this idea in the near future and expand on my past work.
+### Evidence and Applications of Benfords Law in Small Cap Markets     
+  - [Empircal Evidence of Benfords Law in Small Cap Markets](docs/assests/Empirical Evidence of Benford Law in Small Cap Markets.pdf) 
+  - This was a technical paper that was written during my graduate studies at Clemson Unversity.
+  - It explores if the distrobutions of leading digits in Benfords law apply to US Small Cap Markets (i.e. the Russell 2000).
+  - I was trying (to no avail) to determine if, knowing that Benfords law exists in these markets, a favorable trading strategy could be developed.
+  - Trading frequency and transactions costs were my downfall.
+  - However; I plan to revisit this idea in the near future and expand on my past work.
 
 # Project 2
 
