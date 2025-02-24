@@ -52,4 +52,16 @@ Certificate In Machine Learning (Cornell University)
 - Trading frequency and transactions costs were the downfall of this idea.
 - However; I plan to revisit this in the near future and expand on my past work.
 
+### Revisiting Russell 2000 Index and Benfords Law
+- [Github Repository for this project (Currently Collecting Data)] (https://github.com/jacob-s-mason/Benfords-Law-and-Russell-2000)
+- Pulling daily data for all securties in the Russell 2000
+- Starting on 2/24/2025
+- After pullling data for 30-45 Days, then I will begin to examine the transitional probablities of the securities based on different time periods.
+
+
+## Econometrics and Model Building
+- Most of my graduate work was conducted with observational ecomomic data.
+- Models are valuable when they are clear and explainable. 
+- Most AI/Machine Learning models are enigmatic black boxes.
+- My model work may seem basic at first but it is the solid, simple things which are often most useful.
 
