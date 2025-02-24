@@ -36,7 +36,7 @@ Certificate In Machine Learning (Cornell University)
   
    -Benfords law is nothing short of fascinating.
    
-   -The leading digits of naturaly occuring numbers (any naturally occuring number set) that spans mutiple factors of 10 (1,10,100,1000, etc.) will follow a distribution with roughly 30% leading digit 1s decreasing in sequence down to 5% leading digit 9s
+   -The leading digits of naturally occurring numbers (any naturally occuring number set) that spans multiple factors of 10 (1,10,100,1000, etc.) will follow a distribution with roughly 30% leading digit 1s decreasing in sequence down to 5% leading digit 9s
    
    -This applies to the length of rivers, zip codes, the size of computer files,.... and prices :)
    
@@ -56,11 +56,11 @@ Certificate In Machine Learning (Cornell University)
 - [Github Repository for this project (Currently Collecting Data)] (https://github.com/jacob-s-mason/Benfords-Law-and-Russell-2000)
 - Pulling daily data for all securties in the Russell 2000
 - Starting on 2/24/2025
-- After pullling data for 30-45 Days, then I will begin to examine the transitional probablities of the securities based on different time periods.
+- After pulling data for 30-45 Days, then I will begin to examine the transitional probabilities of the securities based on different time periods.
 
 
 ## Econometrics and Model Building
-- Most of my graduate work was conducted with observational ecomomic data.
+- Most of my graduate work was conducted with observational economic data.
 - Models are valuable when they are clear and explainable. 
 - Most AI/Machine Learning models are enigmatic black boxes.
 - My model work may seem basic at first but it is the solid, simple things which are often most useful.
