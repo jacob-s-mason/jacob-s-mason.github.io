@@ -53,7 +53,7 @@ Certificate In Machine Learning (Cornell University)
 - However; I plan to revisit this in the near future and expand on my past work.
 
 ### Revisiting Russell 2000 Index and Benfords Law
-- [Github Repository for this project (Currently Collecting Data)] (https://github.com/jacob-s-mason/Benfords-Law-and-Russell-2000)
+- [Github Repository for this project (Currently Collecting Data)](https://github.com/jacob-s-mason/Benfords-Law-and-Russell-2000)
 - Pulling daily data for all securties in the Russell 2000
 - Starting on 2/24/2025
 - After pulling data for 30-45 Days, then I will begin to examine the transitional probabilities of the securities based on different time periods.
