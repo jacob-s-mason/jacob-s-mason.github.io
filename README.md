@@ -1,9 +1,9 @@
 # Work created by Jacob Mason to be used for great things
-This is an open portfolio. Any and all code in either this site or my repository can be used, copied, and enhanced by anyone who wishes to do great things.
+This is an open portfolio. Any and all code in either this site or any of my repositories can be used, copied, and enhanced by anyone who wishes to do great things.
 
 This will mainly consist of R code since I am a statistician at heart.
 
-“Passion is like the lightning, it is beautiful, and it links the earth to heaven, but alas it blinds!” - H. Rider Haggard
+"Our life is fittered away by detail. Simplify,simplify." - Henry David Thoreau
 
 # Education
 MS Applied Economics and Statistics (Clemson University)
@@ -32,21 +32,20 @@ Certificate In Machine Learning (Cornell University)
 
 ## Applications and Explorations of Benford's Law
 
-[What is Benfords Law?](https://en.wikipedia.org/wiki/Benford%27s_law)
+[What is Benford's Law?](https://en.wikipedia.org/wiki/Benford%27s_law)
   
    -Benfords law is nothing short of fascinating.
    
-   -The leading digits of naturaly occuring numbers (any naturally occuring number set) that spans mutiple factors of 10 (1,10,100,1000, etc.) will follow a distrobution with roughly 30% leading digit 1s to about 5% leading digit 9s
+   -The leading digits of naturaly occuring numbers (any naturally occuring number set) that spans mutiple factors of 10 (1,10,100,1000, etc.) will follow a distribution with roughly 30% leading digit 1s decreasing in sequence down to 5% leading digit 9s
    
-   -This applies to lenght of rivers, zip codes, the size of computer files,.... and prices :)
+   -This applies to the length of rivers, zip codes, the size of computer files,.... and prices :)
    
-   -It can also be used in court as evidence of improper book keeping (otherwise known as cooking the books)
+   -It can also be used in court as evidence of improper accounting practices (otherwise known as cooking the books)
    
-   -One of my goals is to explore the application and uses of Benfords law in openly available sets of data.
+   -One of my goals is to explore the application and uses of Benford's law in openly available sets of data.
 
 ### Evidence and Applications of Benford's Law in Small Cap Markets
 - [Empirical Evidence of Benford's Law in Small Cap Markets (Paper)](docs/assests/Empirical Evidence of Benford Law in Small Cap Markets.pdf)
-- [PowerPoint Presentation of the above](docs/assests/Benford Presentation.pptx)
 - This is a technical paper that was written during my graduate studies at Clemson University.
 - It explores if the distributions of leading digits in Benford's law apply to US Small Cap Markets (i.e. the Russell 2000).
 - I was trying (to no avail) to determine if, knowing that Benford's law exists in these markets, a favorable trading strategy could be developed.
