@@ -63,5 +63,5 @@ Certificate In Machine Learning (Cornell University)
 - Most of my graduate work was conducted with observational economic data.
 - Models are valuable when they are clear and explainable. 
 - Most AI/Machine Learning models are enigmatic black boxes.
-- My model work may seem basic at first but it is the solid, simple things which are often most useful.
+- My model work may appear basic but it is the solid, simple things which are often most useful.
 
