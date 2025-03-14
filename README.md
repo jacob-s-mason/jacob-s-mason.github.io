@@ -63,5 +63,10 @@ Certificate In Machine Learning (Cornell University)
 - Most of my graduate work was conducted with observational economic data.
 - Models are valuable when they are clear and explainable. 
 - Most AI/Machine Learning models are enigmatic black boxes.
-- My next endeavor will be into model building and econometrics.... once I find an interesting idea to pursue. 
+- My next endeavor will be into model building and econometrics.... once I find an interesting idea to pursue.
+
+## Is the New York Power Ball Lottery rigged?
+- This project will examine New York Power Ball Lottery data.
+- Based on the distrobution of the numbers chosen, is there evidence that the lottery might be rigged?
+- Click here to see the results. 
 
