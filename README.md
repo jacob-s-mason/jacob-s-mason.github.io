@@ -66,7 +66,7 @@ Certificate In Machine Learning (Cornell University)
 - My next endeavor will be into model building and econometrics.... once I find an interesting idea to pursue.
 
 ## Is the New York Lottery rigged?
-- This project will examine New York Lottery data (Power Ball, Cash-4-Life, Pick 10, Pick 5).
+- This project will examine New York Lottery data (Power Ball, Cash-4-Life, Pick 10, Pick 5) from Data.gov.
 - Based on the distrobution of the numbers chosen, is there evidence that the lottery might be rigged?
 - Click here to see the results. 
 
