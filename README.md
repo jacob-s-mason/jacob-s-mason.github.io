@@ -5,6 +5,8 @@ This will mainly consist of R code since I am a statistician at heart.
 
 "Our life is fittered away by detail. Simplify,simplify." - Henry David Thoreau
 
+There are "Bears that dance" and "Bears that don't"  - Cormac McCarthy
+
 # Education
 MS Applied Economics and Statistics (Clemson University)
 
