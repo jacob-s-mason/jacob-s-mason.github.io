@@ -70,5 +70,5 @@ Certificate In Machine Learning (Cornell University)
 ## Is the New York Lottery rigged?
 - This project will examine New York Lottery data (Power Ball, Cash-4-Life, Pick 10, Pick 5) from Data.gov.
 - Based on the distrobution of the numbers chosen, is there evidence that the lottery might be rigged?
-- Click here to see the results. 
+- [Click here to see the results.](https://github.com/jacob-s-mason/New-York-Lottery-Numbers)
 
