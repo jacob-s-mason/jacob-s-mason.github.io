@@ -20,7 +20,7 @@ Certificate In Machine Learning (Cornell University)
 
 [Microsoft PowerBI Certified Business Analyst](docs/assests/PowerBI Data Analyst Credential.pdf)
 
-[Graduate Statistician (GStat) American Statistical Association](docs/assests/GSTAT Certificate.pdf)
+[Professional Statistician (PStat) American Statistical Association](docs/assests/PSTAT Certificate.pdf)
 
 [Microsoft Azure AI Fundamentals](docs/assests/Microsoft Azure AI Credential.pdf)
 
